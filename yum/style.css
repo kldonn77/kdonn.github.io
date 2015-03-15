@@ -19,11 +19,11 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 15px;
+	margin: 30px;
 	padding: 30px;
-	border: 15px;
+	border: 30px;
 	font-size: 110%;
-	font: inherit;
+	font: helvetica;
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
