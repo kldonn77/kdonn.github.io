@@ -53,3 +53,8 @@ table {
 /* -----------------END RESET---------------- */
 
 
+article {float:left;
+	width:50%;
+	margin:30px
+	}
+
