@@ -67,7 +67,7 @@ h1 {
 	
 }
 
-h2, h3 {
+h2 {
 	margin: 10px;
 	font-size: 20px;
 	text-transform: uppercase;
@@ -84,7 +84,7 @@ ul {
 ol {
 	margin: 30px;
 font-family:georgia;
-line-height: 20px;
+line-height: 25px;
 list-style-type: decimal;
 	
 }
