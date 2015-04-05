@@ -77,14 +77,14 @@ h2 {
 ul {
 	margin: 25 px;
 	font-family:georgia;
-	line-height: 15px;
+	line-height: 5px;
 	list-style-type: disc;
 }
 
 ol {
 	margin: 30px;
 font-family:georgia;
-line-height: 25px;
+line-height: 7px;
 list-style-type: decimal;
 	
 }
