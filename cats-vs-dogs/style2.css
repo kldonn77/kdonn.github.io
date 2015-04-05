@@ -7,7 +7,7 @@
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s,0 samp,
+del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
 b, u, i, center,
 dl, dt, dd, ol, ul, li,
@@ -47,56 +47,48 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-/* END RESET */
 
-body {
-	margin:0 auto;
-	width: 81%;
-}
-header {
-	margin: 1%;
-	text-align: center;
-}
-header img {
-	margin-top: 2%;
-	margin-bottom: 2%;
-}
+/* -----------------END RESET---------------- */
 
-header nav {
-	border-top: solid black;
-	border-bottom: solid black;
-	margin-bottom: 1%;
-	text-transform: uppercase;
-}
-
-nav li {
-	display: inline-block;
-	margin: .1% 2% .1%;
-	text-transform: uppercase;
-}
-nav a {
-	text-decoration: none;
+h1{
+	font-family: Arial;
+	font-size: 30px;
 	color: black;
-	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing:.5px;
 }
-footer a {
-	text-decoration: none;
-	color: blue;
+
+h2{
+	font-family: Arial;
+	font-size: 12px;
+	color: #969696;
+	letter-spacing:.3px;
+	line-height:2em;
+	margin-bottom:10px;
 }
-article {
-	float: left;
-	width: 40%;
-	display: block;
-	margin: 10px 10px;
-}
-footer {
-	clear: both;
-}
-article img {
-	width: 400px;
-	height: 400px;
+
+p{
+	font-family: Arial;
+	font-size: 13px;
+	color: black;
+	line-height:1.2em;
 }
 
 
+.column {
+	float:left;
+	padding:10px;
+	width:35%;
+	margin-top:30px;
+	margin-left:30px;
+}
+
+
+.left-img{
+	float:left;
+	width:45%;
+	margin-right:20px;
+	margin-bottom:15px;
+}
 
 
