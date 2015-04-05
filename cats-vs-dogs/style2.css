@@ -81,13 +81,12 @@ nav a {
 }
 footer a {
 	text-decoration: none;
-	color: red;
+	color: blue;
 }
 article {
 	float: left;
 	width: 40%;
 	display: block;
-	text-align: center;
 	margin: 10px 10px;
 }
 footer {
