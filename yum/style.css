@@ -76,7 +76,7 @@ h2 {
 }
 
 ul {
-	margin: 10 px;
+	margin: 5 px;
 	font-family:georgia;
 	line-height: 1px;
 	list-style-type: disc;
@@ -88,7 +88,7 @@ ol {
 	margin: 30px;
 font-family:georgia;
 line-height: 30px;
-font-size: 14px;
+font-size: 16px;
 list-style-type: decimal;
 padding-bottom: 2px;
 padding-top: 2px;
