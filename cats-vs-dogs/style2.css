@@ -55,8 +55,8 @@ body {margin:0 auto;
 header {text-align:center;}
 
 #main-content {width: 90%;
-		margin-left: 20%;
-		margin-right: 20%;}
+		margin-left: 5%;
+		margin-right: 5%;}
 
 #nav {border-top:solid black;
 	border-bottom: solid black;}
@@ -64,6 +64,7 @@ header {text-align:center;}
 #nav li {
 	display: inline-block;
 	margin: 10px;
+	text-transform: uppercase;
 }
 
 #nav a {text-decoration: none;
