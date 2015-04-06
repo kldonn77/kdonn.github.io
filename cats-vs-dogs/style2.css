@@ -54,7 +54,7 @@ body {margin:0 auto;
 	
 header {text-align:center;}
 
-#main-content {width: 80%;
+#main-content {width: 90%;
 		margin-left: 20%;
 		margin-right: 20%;}
 
@@ -72,7 +72,7 @@ header {text-align:center;}
 
 #dog-article {
 	float:left;
-	width: 35%;
+	width: 45%;
 	margin: 2%;
 }
 
@@ -103,7 +103,7 @@ p{
 }
 #cat-article {
 	float:left;
-	width: 35%;
+	width: 45%;
 	margin: 2%;
 }
 
