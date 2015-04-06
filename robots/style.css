@@ -58,10 +58,7 @@ a:link {
 	background-color: #F1FFD4;
 }
 
-#site-header {
-	clear: both;
-	margin-left: 20%;
-}
+
 
 #top-nav {
 	color: #805529;
@@ -69,13 +66,10 @@ a:link {
 	right: 5px;
 	margin-right: 15%;
 }
-#top-nav a {
-	color: #805529;
-}
 
 #menu-wrapper{
 	background-color: #805529;
-	clear: both;
+	
 	width: 100%;
 }
 #main-menu { 
