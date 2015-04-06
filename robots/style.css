@@ -70,16 +70,18 @@ footer, header, hgroup, menu, nav, section {
 		
 #page {float: left;
 		width: 60%;
+		margin: 2.5%;
 		}
 		
 #sidebar {float: left;
 		width: 30%;
+		margin: 2.5%;
 	
 }
 
 		
 #footer-wrapper {
-		background-color:brown;	
+		background-color:pink;	
 		}
 		
 #site-footer {
