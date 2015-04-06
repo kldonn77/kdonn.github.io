@@ -65,13 +65,9 @@ a:link {
 
 #top-nav {
 	color: #805529;
-	clear: both;
-	position: absolute;
 	top: 5px;
 	right: 5px;
 	margin-right: 15%;
-	
-	font-size: 90%;
 }
 #top-nav a {
 	color: #805529;
