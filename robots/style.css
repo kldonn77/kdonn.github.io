@@ -83,7 +83,7 @@ footer, header, hgroup, menu, nav, section {
 		
 #footer-wrapper {clear:both;
 		background-color:pink;	
-		
+		height: 50px;
 		}
 		
 #site-footer {
