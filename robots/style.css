@@ -27,15 +27,11 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
 
 #site-wrapper {background-color:green;
 		}
 #site-header {margin:0 auto;
-		width: 80%;}  This cannot work if the body is set to 80%
+		width: 80%;}  
 
 
 
