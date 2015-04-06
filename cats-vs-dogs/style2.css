@@ -133,12 +133,13 @@ footer {
 }
 
 #martha {
-	float: right;
+	float: left;
 	margin-right: 20%;
 	margin-top: 1%;
 }
 
 #martha a {
+	float: left;
 	text-decoration: none;
 	color: red;
 }
