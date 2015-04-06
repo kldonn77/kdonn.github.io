@@ -123,4 +123,33 @@ p{
 	margin-bottom:15px;
 }
 
+footer {
+	clear:both;
+	border-top: solid black;
+	width: 100%;
 
+
+}
+
+
+#wiki {
+	float:left;
+	margin-top: 1%;
+	margin-left: 22%;
+}
+
+#wiki a{
+	text-decoration: none;
+	color: red;
+}
+
+#martha {
+	float: right;
+	margin-right: 20%;
+	margin-top: 1%;
+}
+
+#martha a {
+	text-decoration: none;
+	color: red;
+}
