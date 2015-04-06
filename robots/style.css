@@ -101,3 +101,6 @@ footer, header, hgroup, menu, nav, section {
 	float:right;
 	width: 50%;
 }
+
+#footer-follow li {float:left;
+	}
