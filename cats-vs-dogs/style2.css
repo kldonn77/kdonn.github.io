@@ -52,7 +52,7 @@ table {
 body {margin:0 auto;
 	width: 80%;}
 	
-header {text-align-center;}
+header {text-align:center;}
 
 #nav {border-top:solid black;
 	border-bottom: solid black;}
@@ -62,7 +62,7 @@ header {text-align-center;}
 	margin: 10px;
 }
 
-#main-nav a {text-decoration: none;
+#nav a {text-decoration: none;
 	color:black;
 	font-weight: bold;}
 
