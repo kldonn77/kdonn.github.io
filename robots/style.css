@@ -70,19 +70,20 @@ footer, header, hgroup, menu, nav, section {
 		
 #page {float: left;
 		width: 60%;
-		margin: 2.5%;
+		margin-right: 5%;
+		background-color: grey;
 		}
 		
 #sidebar {float: left;
 		width: 30%;
-		margin: 2.5%;
+		margin-left:5%;
 	
 }
 
 		
-#footer-wrapper {
+#footer-wrapper {clear:both;
 		background-color:pink;	
-		clear:both;
+		
 		}
 		
 #site-footer {
@@ -91,3 +92,12 @@ footer, header, hgroup, menu, nav, section {
 			width: 80%;
 }
 
+#footer-contact {
+	float:left;
+	width: 50%;
+}
+
+#footer-follow {
+	float:right;
+	width: 50%;
+}
