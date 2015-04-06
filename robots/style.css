@@ -68,6 +68,16 @@ footer, header, hgroup, menu, nav, section {
 		margin-right: auto;
 		width: 80%;}
 		
+#page {float: left;
+		width: 60%;
+		}
+		
+#sidebar {float: left;
+		width: 30%;
+	
+}
+
+		
 #footer-wrapper {
 		background-color:brown;	
 		}
@@ -77,3 +87,4 @@ footer, header, hgroup, menu, nav, section {
 			margin-right: auto;
 			width: 80%;
 }
+
