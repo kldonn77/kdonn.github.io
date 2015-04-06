@@ -33,14 +33,22 @@ footer, header, hgroup, menu, nav, section {
 }
 
 #site-wrapper {background-color:green;
+				height:100px;
 		}
 #site-header {margin:0 auto;
 		width: 80%;}  
 
+#site-header h1 {float:left;
+				width: 50%;
+				}
+
+#top-nav {float:right;
+		width: 50%;
+		}
 
 
-
-#menu-wrapper {background-color: brown;
+#menu-wrapper {clear: both;
+				background-color: brown;
 }
 
 #main-menu {margin-left: auto;
