@@ -27,6 +27,10 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
 
 #site-wrapper {background-color:green;
 		}
@@ -43,3 +47,6 @@ time, mark, audio, video {
 		margin-right: auto;
 		width: 80%;
 	}
+
+#content-wrapper {background-color:chartreuse;
+				}
