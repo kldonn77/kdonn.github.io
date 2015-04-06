@@ -49,6 +49,7 @@ footer, header, hgroup, menu, nav, section {
 
 #menu-wrapper {clear: both;
 				background-color: brown;
+				height: 50px;
 }
 
 #main-menu {margin-left: auto;
@@ -56,7 +57,11 @@ footer, header, hgroup, menu, nav, section {
 		width: 80%;
 	}
 
-#content-wrapper {background-color:brown;
+#main-menu li {float:left;
+				}
+
+#content-wrapper {clear:both;
+				background-color:brown;
 				}
 				
 #content {margin-left: auto;
