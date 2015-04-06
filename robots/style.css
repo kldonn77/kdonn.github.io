@@ -50,3 +50,7 @@ footer, header, hgroup, menu, nav, section {
 
 #content-wrapper {background-color:chartreuse;
 				}
+				
+#content {margin-left: auto;
+		margin-right: auto;
+		width: 80%;}
