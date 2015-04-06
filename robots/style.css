@@ -48,9 +48,19 @@ footer, header, hgroup, menu, nav, section {
 		width: 80%;
 	}
 
-#content-wrapper {background-color:chartreuse;
+#content-wrapper {background-color:brown;
 				}
 				
 #content {margin-left: auto;
 		margin-right: auto;
 		width: 80%;}
+		
+#footer-wrapper {
+		background-color:brown;	
+		}
+		
+#site-footer {
+	margin-left: auto;
+			margin-right: auto;
+			width: 80%;
+}
