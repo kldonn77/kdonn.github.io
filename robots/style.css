@@ -82,6 +82,7 @@ footer, header, hgroup, menu, nav, section {
 		
 #footer-wrapper {
 		background-color:pink;	
+		clear:both;
 		}
 		
 #site-footer {
